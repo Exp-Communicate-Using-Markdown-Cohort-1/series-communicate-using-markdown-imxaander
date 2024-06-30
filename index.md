@@ -8,3 +8,7 @@
 ```c++
 void* x = 0x0; //test c++ code...
 ```
+
+- [ ] Complete 1st CDM Project
+- [ ] Develop a C++ Game Engine
+- [ ] Learn Assembly
